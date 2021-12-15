@@ -1,0 +1,14 @@
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.csproj.AssemblyReference.cache
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.AssemblyInfoInputs.cache
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.AssemblyInfo.cs
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.csproj.CoreCompileInputs.cache
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\bin\Debug\netcoreapp3.1\Pr_9_zad_2.exe
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\bin\Debug\netcoreapp3.1\Pr_9_zad_2.deps.json
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\bin\Debug\netcoreapp3.1\Pr_9_zad_2.runtimeconfig.json
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\bin\Debug\netcoreapp3.1\Pr_9_zad_2.runtimeconfig.dev.json
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\bin\Debug\netcoreapp3.1\Pr_9_zad_2.dll
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\bin\Debug\netcoreapp3.1\Pr_9_zad_2.pdb
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.dll
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.pdb
+C:\Users\АНДРЕЙ\source\repos\Pr_9_zad_2\Pr_9_zad_2\obj\Debug\netcoreapp3.1\Pr_9_zad_2.genruntimeconfig.cache
